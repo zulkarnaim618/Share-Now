@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="nameText" parent="android:TextAppearance">
+        <item name="android:fontWeight">7</item>
+    </style>
+    <style name="detailColor" parent="android:TextAppearance">
+        <item name="android:textColor">#ffa9a9a9</item>
+    </style>
+</resources>
