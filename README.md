@@ -16,5 +16,5 @@ An android file sharing app over local network
 </p>
 
 ## Notes
-The app was build focusing on functionality. App permissions are naively implemented. So, it might not work with newer android versions.
+The app was built focusing on functionality. App permissions are naively implemented. So, it might not work with newer android versions.
 
