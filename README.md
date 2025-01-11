@@ -2,7 +2,8 @@
 An android file sharing app over local network
 
 ## Screenshots
-![app logo](screenshots/One-UI-Home.jpg)
+<img src="screenshots/One-UI-Home.jpg" alt="app-logo" width="300"/>
+![app-logo](screenshots/One-UI-Home.jpg)
 ![home](screenshots/Share-Now-Home.jpg)
 ![sender-file-select](screenshots/Share-Now-Sender-File-Select.jpg)
 ![receiver-qr](screenshots/Share-Now-Receiver-QR.jpg)
